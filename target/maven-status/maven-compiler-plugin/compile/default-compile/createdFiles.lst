@@ -1,0 +1,6 @@
+com/wallet/dto/Wallet.class
+com/wallet/Sevice/WalletServiceImpl.class
+com/wallet/Repo/WalletRepository.class
+com/wallet/WalletApplication.class
+com/wallet/Contoller/WalletController.class
+com/wallet/Sevice/WalletService.class
